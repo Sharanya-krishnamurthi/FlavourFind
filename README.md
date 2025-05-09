@@ -108,12 +108,6 @@ streamlit run app.py
 
 ## 🖼️ Sample Output
 
-| Recipe Name   | Prep Time | Cook Time | Key Ingredients             |
-| ------------- | --------- | --------- | --------------------------- |
-| Aloo Gobi     | 15 mins   | 20 mins   | Potato, Cauliflower, Spices |
-| Paneer Bhurji | 10 mins   | 15 mins   | Paneer, Onion, Tomato       |
-| Palak Paneer  | 10 mins   | 25 mins   | Spinach, Paneer, Garlic     |
-
 ![FlavourFind Output](RecipeSS.png)
 
 ---
