@@ -68,8 +68,8 @@ The dataset contains information on Indian recipes, including:
 
 1. Clone the repo:
 ```bash
-git clone https://github.com/yourusername/flavourfind.git
-cd flavourfind
+git clone https://github.com/Sharanya-krishnamurthi/FlavourFind.git
+cd FlavourFind
 ````
 
 2. Install dependencies:
