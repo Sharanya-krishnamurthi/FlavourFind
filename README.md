@@ -114,6 +114,8 @@ streamlit run app.py
 | Paneer Bhurji | 10 mins   | 15 mins   | Paneer, Onion, Tomato       |
 | Palak Paneer  | 10 mins   | 25 mins   | Spinach, Paneer, Garlic     |
 
+![FlavourFind Output](RecipeSS.png)
+
 ---
 
 ## 📌 Future Enhancements
